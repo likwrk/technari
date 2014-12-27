@@ -1,0 +1,7 @@
+SiteBundle_admin:
+    resource: "@AdminBundle/Resources/config/routing/category.yml"
+    prefix:   /admin/category
+
+SiteBundle_admin_node:
+        resource: "@AdminBundle/Resources/config/routing/node.yml"
+        prefix:   /admin/node

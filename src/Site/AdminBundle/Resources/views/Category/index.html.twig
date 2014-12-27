@@ -1,0 +1,53 @@
+{% extends '::base.html.twig' %}
+
+{% block body -%}
+    <h1>Category list</h1>
+
+    <table class="records_list table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Location</th>
+                <th>Sort</th>
+                <th>Slug</th>
+                <th>Meta_title</th>
+                <th>Meta_description</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for entity in entities %}
+            <tr>
+                <td><a href="{{ path('category_show', { 'id': entity.id }) }}">{{ entity.id }}</a></td>
+                <td>{{ entity.fulltitle }}</td>
+                <td>{{ entity.description }}</td>
+                <td>{{ entity.location }}</td>
+                <td>{{ entity.sort }}</td>
+                <td>{{ entity.slug }}</td>
+                <td>{{ entity.metatitle }}</td>
+                <td>{{ entity.metadescription }}</td>
+                <td>
+                <ul class="list-inline">
+                    <li>
+                        <a title="Открыть" href="{{ path('category_show', { 'id': entity.id }) }}"><i class="fa fa-file-text"></i></a>
+                    </li>
+                    <li>
+                        <a title="Редактировать" href="{{ path('category_edit', { 'id': entity.id }) }}"><i class="fa fa-pencil-square-o"></i></a>
+                    </li>
+                </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+        <ul>
+        <li>
+            <a href="{{ path('category_new') }}">
+                Create a new entry
+            </a>
+        </li>
+    </ul>
+    {% endblock %}

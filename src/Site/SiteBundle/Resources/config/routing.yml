@@ -1,0 +1,8 @@
+site_homepage:
+    pattern:  /{slug}
+    defaults: { _controller: SiteBundle:Page:index, slug: 'for-home' }
+
+site_subcat:
+    pattern:  /{parent_slug}/{slug}
+    defaults: { _controller: SiteBundle:Page:subcat }
+

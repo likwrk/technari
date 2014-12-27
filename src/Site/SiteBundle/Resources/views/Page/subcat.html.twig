@@ -1,0 +1,24 @@
+{% extends 'SiteBundle::layout.html.twig' %}
+
+{% block promo %}
+	<div class="row promo-banner">
+		{# <div class="col-xs-12"> #}
+			<img src="{{ asset('images/promo-banner.png') }}" alt="">
+		{# </div> #}
+	</div>
+{% endblock %}
+
+{% block body %}
+
+
+		<div class="row">
+			{% for category in categories %}
+				<div class="">
+					<div class=""><a href="{{ path('site_subcat', { 'parent_slug': parentCategory.slug, 'slug': category.slug }) }}">{{category.title}}</a></div>
+				</div>
+			{% else %}
+				<div>Нет ничего</div>
+			{% endfor %}
+		</div>
+
+{% endblock %}

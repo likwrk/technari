@@ -1,0 +1,81 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+body { line-height: 1;font-family: Arial, Helvetica, sans-serif; width: 100%; height: 100%; color: #000; font-size: 14px; }
+
+.clear { clear: both; }
+
+/*#wrapper { margin: 10px auto; width: 1000px; }*/
+a { text-decoration: none; color: #F48A00; }
+a:hover, a:focus { color: #F48A00; text-decoration: underline; }
+#header a:hover, #header a:focus { text-decoration: none; }
+#wrapper span.highlight { color: #F48A00; }
+#wrapper span.highlight-white { color: #FFFFFF; }
+
+#header { border-bottom: 0 solid #ccc; margin-bottom: 20px; }
+/*#header .top { border-bottom: 1px solid #ccc; margin-bottom: 10px; }*/
+/*#header ul.navigation { list-style: none; text-align: right; }*/
+/*#header .navigation li { border-right: 1px solid #ccc; }*/
+/*#header .navigation li a { display: inline-block; padding: 10px 15px;  }*/
+/*#header h2 { font-family: 'Irish Grover', cursive; font-size: 92px; text-align: center; line-height: 110px; }*/
+#header h2 { font-family: 'Stalinist One', cursive; font-size: 28px; text-align: center; line-height: 2; }
+#header h2 a { color: #000; }
+/*#header h3 { text-align: center; font-family: 'La Belle Aurore', cursive; font-size: 24px; margin-bottom: 20px; font-weight: normal; }*/
+#header h3 { text-align: center; font-family: 'Marck Script', cursive; font-size: 28px; margin-bottom: 20px; font-weight: normal; }
+
+.main-col a { color: #F48A00; }
+.main-col h1,
+.main-col h2
+    { line-height: 1.2em; font-size: 32px; margin-bottom: 10px; font-weight: normal; color: #F48A00; }
+.main-col p { line-height: 1.5em; margin-bottom: 20px; }
+
+#footer { border-top: 1px solid #ccc; clear: both; text-align: center; padding: 10px; margin-top: 20px; color: #aaa; }
+
+
+.contacts { margin: 5px 0; }
+/*.contacts li:first-child { border-left: 1px solid #ccc; }*/
+.contact-item, .contact-item a {
+	font-size: 15px;
+	font-family: Tahoma,Arial,sans-serif;
+	font-weight: 700;
+	line-height: 26px;
+	padding-left: 20px;
+	color: #262626;
+}
+
+.navigation a {
+    display: block;
+    text-align: center;
+    font: 23px/26px Tahoma,Arial,sans-serif;
+    text-shadow: 1px 1px 0 #DFE2E5;
+    text-decoration: none;
+    background: url('../images/menu.png') repeat-x scroll 0 0 transparent;
+    border-right: 1px solid #C9D4D9;
+    border-width: 5px 1px 1px;
+    border-style: solid;
+    border-color: #C9D4D9 #C9D4D9 #ACBCC3;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+}
+
+
+.navigation li { padding: 5px; }
+
+.navigation a:active { background-position: 0 -100px; }
+
+.navigation a span { display: block; padding: 14px 0;}
+
+/*.navigation li a {border-top-color:#fe7e00; color:#fe7e00;}*/
+.navigation .item-for-home a {border-top-color:#fe7e00; color:#fe7e00;}
+.navigation .item-for-business a {border-top-color:#5ec3d0; color:#5ec3d0;}
+.navigation .item-about-company a {border-top-color:#d9c17b; color:#AD7A3D;}
+
+/*.navigation li a:hover span, .navigation li .active span, .navigation li a:active span  {background:url(../images/item-for-home.png) no-repeat 50% 0;}*/
+.item-for-home a:hover span, .item-for-home .active span, .item-for-home a:active span  {background:url(../images/item-home.png) no-repeat 50% 0;}
+.item-for-business a:hover span, .item-for-business .active span, .item-for-business a:active span  {background:url(../images/item-business.png) no-repeat 50% 0;}
+.item-about-company a:hover span, .item-about-company .active span, .item-about-company a:active span  {background:url(../images/item-company.png) no-repeat 50% 0;}

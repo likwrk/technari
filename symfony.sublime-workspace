@@ -1,0 +1,1977 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getF",
+				"getFullTitle"
+			],
+			[
+				"re",
+				"ret	return"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pare",
+				"parentCategory"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cure",
+				"currentCategory"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"top",
+				"topCategories"
+			],
+			[
+				"topCA",
+				"topCat"
+			],
+			[
+				"topCa",
+				"topCategories"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"Site",
+				"SiteBundle"
+			],
+			[
+				"set",
+				"set	Twig : Set"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"block",
+				"block	Twig : Block"
+			],
+			[
+				"e",
+				"else	Twig : Else"
+			],
+			[
+				"Blo",
+				"BlogBundle_post"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"Comm",
+				"Comment"
+			],
+			[
+				"BlogB",
+				"BlogBundle"
+			],
+			[
+				"BlogBun",
+				"BlogBundle:Comment"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"Comme",
+				"CommentType"
+			],
+			[
+				"BlogBundle_co",
+				"BlogBundle_comment_create"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"for",
+				"for	Twig : For"
+			],
+			[
+				"c",
+				"comments"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"blog",
+				"blog_id"
+			],
+			[
+				"getRe",
+				"getResult"
+			],
+			[
+				"if",
+				"if	Twig : If"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"Blog",
+				"BlogBundle"
+			],
+			[
+				"fla",
+				"flashMessage"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"meta",
+				"metadata"
+			],
+			[
+				"Com",
+				"Component"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"sty",
+				"stylesheets"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"B",
+				"BlogBundle"
+			],
+			[
+				"F",
+				"Form"
+			],
+			[
+				"Bl",
+				"BlogBundle"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"Enq",
+				"EnquiryType"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"Form",
+				"FormBuilderInterface"
+			],
+			[
+				"C",
+				"Component"
+			],
+			[
+				"_",
+				"_method"
+			],
+			[
+				"f",
+				"fun	function …"
+			],
+			[
+				"S",
+				"Symfony"
+			],
+			[
+				"doma",
+				"domain"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"quer",
+				"querySelectorAll"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"tog",
+				"toggle"
+			],
+			[
+				"contai",
+				"container"
+			],
+			[
+				"str",
+				"strong"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"link",
+				"linkColor"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"questions",
+				"questions:list"
+			],
+			[
+				"quest",
+				"questions"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"place",
+				"placeholder"
+			],
+			[
+				"css",
+				"cssText"
+			],
+			[
+				"has",
+				"hasOwnProperty('styleSheet"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"style",
+				"styleEl"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"g",
+				"gt	getElementsByTagName"
+			],
+			[
+				"div",
+				"div_answers"
+			],
+			[
+				"sear",
+				"searchContainer"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"htt",
+				"httpRqst"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"ans",
+				"answers"
+			],
+			[
+				"ques",
+				"questionID"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"qus",
+				"questions"
+			],
+			[
+				"answer",
+				"answerQuestion"
+			],
+			[
+				"ce",
+				"cel	createElement"
+			],
+			[
+				"q",
+				"qsa	querySelectorAll"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"span",
+				"span4"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"spa",
+				"span12"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"custo",
+				"customHeader"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"fa",
+				"failure"
+			],
+			[
+				"limit",
+				"limitInt"
+			],
+			[
+				"title",
+				"title_header"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"form",
+				"form_input_text"
+			],
+			[
+				"tag",
+				"tags"
+			],
+			[
+				"i",
+				"ih	innerHTML"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"dop",
+				"dropdown"
+			],
+			[
+				"butt",
+				"buttonAdd"
+			],
+			[
+				"doIma",
+				"doImageDropdown"
+			],
+			[
+				"inser",
+				"insertVideo"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"crea",
+				"createModal"
+			],
+			[
+				"ac",
+				"ac	appendChild"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Blogger/BlogBundle/Form/CommentType.php",
+			"settings":
+			{
+				"buffer_size": 975,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linterdefa",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"twig",
+				"Snippet: Symfony2 / Twig / Tag / trans"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"symf",
+				"Snippet: Symfony2 / Validator / Constraint"
+			],
+			[
+				"get",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sstw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"ssjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"fre",
+				"Set Syntax: FreeMarker"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"we",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjava",
+				"Set Syntax: Java"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"mod",
+				"Snippet: JS module pattern"
+			],
+			[
+				"wara",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"htmpre",
+				"HTMLPrettify"
+			],
+			[
+				"free",
+				"Set Syntax: FreeMarker"
+			],
+			[
+				"pretif",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"smar",
+				"Set Syntax: Smarty"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"gt",
+				"Grunt"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"grdefa",
+				"Preferences: Grunt - Settings – Default"
+			],
+			[
+				"grut",
+				"Preferences: Grunt - Settings – User"
+			],
+			[
+				"sni for",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"gr user",
+				"Preferences: Grunt - Settings – User"
+			],
+			[
+				"grun ",
+				"Preferences: Grunt - Settings – Default"
+			],
+			[
+				"prefe defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setuser",
+				"Preferences: Settings - User"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"jvasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"gg",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"level",
+				"Levels: Off"
+			],
+			[
+				"leve",
+				"Levels: Update"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"html an",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"set s",
+				"Set Syntax: HTML"
+			],
+			[
+				"shtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"emw",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emwra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"proje sa",
+				"Project: Save As"
+			],
+			[
+				"emmw",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emmwra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emwrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"prj save",
+				"Project: Save As"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"addd",
+				"Project: Add Folder"
+			],
+			[
+				"emmew",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"ewra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"war",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emm wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 340.0,
+		"history":
+		[
+			"grunt",
+			"window.run_command",
+			"window.run_command('some')",
+			"window.run_command('some', [])",
+			"window.run_command",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/anykey/www/live.com/src/Blogger",
+		"/home/anykey/www/live.com/web"
+	],
+	"file_history":
+	[
+		"/home/anykey/www/vitino.com/app/AppKernel.php",
+		"/home/anykey/www/vitino.com/src/Vitino/MainBundle/Resources/config/routing.yml",
+		"/home/anykey/www/vitino.com/app/config/routing_dev.yml",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Resources/views/Node/index.html.twig",
+		"/home/anykey/www/live.com/app/config/config.yml",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Form/NodeType.php",
+		"/home/anykey/www/live.com/app/AppKernel.php",
+		"/home/anykey/www/live.com/composer.json",
+		"/home/anykey/.config/cmus/cmus-notify.py",
+		"/home/anykey/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Resources/views/Page/index.html.twig",
+		"/home/anykey/www/live.com/public_html/css/screen.css",
+		"/home/anykey/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/anykey/.config/sublime-text-3/Packages/SublimeLinter/Default (Linux).sublime-keymap",
+		"/home/anykey/liferay/liferay-plugins-sdk-6.2/portlets/firstPortlet-portlet/docroot/WEB-INF/liferay-display.xml",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Entity/Node.php",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Resources/config/routing/node.yml",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Entity/Category.php",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Controller/NodeController.php",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Resources/views/Category/index.html.twig",
+		"/home/anykey/www/live.com/app/Resources/views/base.html.twig",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Resources/config/routing.yml",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Resources/config/routing/category.yml",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Repository/Node.php",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Controller/CategoryController.php",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Resources/config/Category/edit.html.twig",
+		"/home/anykey/www/live.com/src/Site/AdminBundle/Form/CategoryType.php",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Form/CategoryType.php",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Resources/config/routing.yml",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Tests/Controller/DefaultControllerTest.php",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Controller/Admin/CategoryController.php",
+		"/home/anykey/www/live.com/app/config/security.yml",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Resources/config/routing/category.yml",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Resources/views/Category/index.html.twig",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Controller/CategoryController.php",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/DependencyInjection/SiteExtension.php",
+		"/home/anykey/www/live.com/symfony.sublime-project",
+		"/home/anykey/www/live.com/public_html/bundles/site/css/site.css",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Controller/PageController.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/views/Page/index.html.twig",
+		"/home/anykey/www/live.com/app/config/routing.yml",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Resources/public/css/site.css",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Resources/views/layout.html.twig",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Resources/views/Page/subcat.html.twig",
+		"/home/anykey/www/live.com/src/Site/SiteBundle/Entity/Repository/CategoryRepository.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/config/routing.yml",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Entity/Comment.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Entity/Post.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Entity/Repository/PostRepository.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Entity/Repository/CommentRepository.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Controller/PageController.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/views/layout.html.twig",
+		"/home/anykey/www/live.com/public_html/css/font-awesome.min.css",
+		"/home/anykey/www/live.com/vendor/kriswallsmith/assetic/src/Assetic/Asset/BaseAsset.php",
+		"/home/anykey/www/live.com/public_html/bundles/blog/css/blog.css",
+		"/home/anykey/www/live.com/vendor/doctrine/collections/tests/Doctrine/Tests/LazyArrayCollection.php",
+		"/home/anykey/www/live.com/LICENSE",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/views/Post/show.html.twig",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Form/CommentType.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/views/Comment/form.html.twig",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Controller/CommentController.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/views/Comment/create.html.twig",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/views/Comment/index.html.twig",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Controller/PostController.php",
+		"/home/anykey/www/live.com/vendor/doctrine/orm/lib/Doctrine/ORM/EntityRepository.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests/Fixtures/EntityParent.php",
+		"/home/anykey/www/live.com/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Form/EnquiryType.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Finder/Adapter/PhpAdapter.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Controller/BlogController.php",
+		"/home/anykey/www/live.com/vendor/doctrine/orm/docs/en/reference/partial-objects.rst",
+		"/home/anykey/www/live.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/PostgreSqlSchemaManager.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Locale/Stub/StubCollator.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Entity/Comment.php~",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Console/Tests/Fixtures/command_1.md",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Yaml/Tests/Fixtures/sfComments.yml",
+		"/home/anykey/www/live.com/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Resources/doc/commands/generate_controller.rst",
+		"/home/anykey/www/live.com/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ElementCollection.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/AuthenticationCommencingTest.php",
+		"/home/anykey/www/live.com/app/cache/dev/assetic/routing.yml",
+		"/home/anykey/www/live.com/app/config/routing_dev.yml",
+		"/home/anykey/www/live.com/vendor/sensio/framework-extra-bundle/Sensio/Bundle/FrameworkExtraBundle/Configuration/Route.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Routing/Router.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Templating/Asset/PackageInterface.php",
+		"/home/anykey/www/live.com/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/PostgreSqlPlatform.php",
+		"/home/anykey/www/live.com/vendor/twig/twig/test/Twig/Tests/Node/Expression/Unary/PosTest.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Profiler/ProfilerStorageInterface.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Locale/Stub/StubIntlDateFormatter.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Tests/Fixtures/CompositeStringIdEntity.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/PropertyAccess/Exception/NoSuchIndexException.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php",
+		"/home/anykey/www/live.com/vendor/symfony/assetic-bundle/Symfony/Bundle/AsseticBundle/Resources/config/controller.xml",
+		"/home/anykey/www/live.com/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Generator/ControllerGenerator.php",
+		"/home/anykey/www/live.com/vendor/sensio/framework-extra-bundle/Sensio/Bundle/FrameworkExtraBundle/EventListener/ControllerListener.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/CONTRIBUTING.md",
+		"/home/anykey/www/live.com/app/console",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Bridge/Propel1/Tests/Fixtures/ReadOnlyItem.php",
+		"/home/anykey/www/live.com/README.md",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Config/Tests/Definition/EnumNodeTest.php",
+		"/home/anykey/www/live.com/vendor/symfony/symfony/src/Symfony/Component/Config/Definition/EnumNode.php",
+		"/home/anykey/www/live.com/.idea/encodings.xml",
+		"/home/anykey/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/anykey/www/live.com/vendor/incenteev/composer-parameter-handler/Incenteev/ParameterHandler/ScriptHandler.php",
+		"/home/anykey/www/live.com/vendor/symfony/icu/Symfony/Component/Icu/Resources/data/curr/bs_Latn.res",
+		"/home/anykey/www/live.com/app/bootstrap.php.cache",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/DependencyInjection/BlogExtension.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Entity/Repository/BlogRepository.php",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Entity/Enquiry.php",
+		"/home/anykey/www/live.com/.idea/php.xml",
+		"/home/anykey/www/live.com/app/config/parameters.yml",
+		"/home/anykey/www/live.com/UPGRADE.md",
+		"/home/anykey/www/live.com/app/autoload.php",
+		"/home/anykey/www/live.com/public_html/app.php",
+		"/home/anykey/www/live.com/app/logs/prod.log",
+		"/home/anykey/www/live.com/app/cache/.gitkeep",
+		"/home/anykey/www/live.com/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/Entity.php",
+		"/home/anykey/www/live.com/public_html/_htaccess",
+		"/home/anykey/Desktop/flash1/index.html",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/config/doctrine/Blogger.BlogBundle.Entity.Post.orm.yml",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/views/Page/about.html.twig",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/public/css/blog.css",
+		"/home/anykey/www/live.com/src/Blogger/BlogBundle/Resources/views/Page/contact.html.twig",
+		"/home/anykey/.config/sublime-text-3/Packages/PhpNamespace/Default (Linux).sublime-keymap",
+		"/home/anykey/.config/sublime-text-3/Packages/PHP Getters and Setters/php-getters-setters.sublime-settings",
+		"/home/anykey/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/anykey/.config/sublime-text-3/Packages/User/YAML.sublime-settings",
+		"/home/anykey/.config/sublime-text-3/Packages/User/PHP.sublime-settings",
+		"/home/anykey/.config/sublime-text-3/Packages/Phpcs/phpcs.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"",
+			"/home/anykey/answerhub-theme-sdk/teamhub.home/themes/thub",
+			"",
+			"*.ftl",
+			"",
+			"*.ftl",
+			"*.properties",
+			"*.ftl",
+			"",
+			"*.ftl",
+			"",
+			"*.ftl",
+			"",
+			"*.ftl",
+			"",
+			"/home/anykey/answerhub-theme-sdk/teamhub.home/themes/thub",
+			"",
+			"*.ftl",
+			"/home/anykey/answerhub-theme-sdk/teamhub.home/themes/thub",
+			"*.ftl",
+			"",
+			"*.ftl",
+			"*",
+			"*.ftl",
+			"*.ftl,*.ftd",
+			"",
+			"*.ftl",
+			"*.java",
+			"*.ftl",
+			"",
+			"*.ftl",
+			"",
+			"*.ftl",
+			"",
+			"/home/anykey/answerhub-theme-sdk/teamhub.home/themes/askmn/notifications",
+			"",
+			"*.php",
+			"",
+			"/home/anykey/www/kparts.com/public_html/shop/catalog/view/theme/kparts/angular/js",
+			"",
+			"/home/anykey/www/kparts.com/public_html/catalog/view/theme/kparts/angular/js",
+			"/home/anykey/www/kparts.com/public_html/catalog/view/theme/kparts",
+			"",
+			"\\t",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ClassMetadata",
+			"none",
+			"        ",
+			"   ",
+			"':",
+			"ignore",
+			"ck",
+			"_controller: \"SiteBundle",
+			"getRepository('AdminBundle",
+			"SiteBundle:Node",
+			"render('SiteBundle",
+			"category/",
+			"site",
+			"admin_",
+			"category_show",
+			"getRepository('AdminBundle",
+			"pattern:  /",
+			"SiteBundle",
+			"SiteBundle:Category",
+			"Admin:Category",
+			"Admin",
+			"render('SiteBundle:Category",
+			"SiteBundle:Category",
+			"192817",
+			"currentCategory",
+			"highlight",
+			"navigation .item-",
+			"item-home",
+			".item-",
+			"item-home",
+			"item-company",
+			"item-business",
+			"{{ path",
+			"top",
+			"left",
+			"top",
+			"position",
+			"NotBlank",
+			"ClassMetadata",
+			"xs",
+			"span .current",
+			"a:hover",
+			" span a",
+			"</a><",
+			"\">",
+			"<a href=\"{{ path('",
+			".item-",
+			"a:hover",
+			"a:hover,",
+			"/* span */",
+			"a:",
+			"a:ho",
+			"bg/",
+			"bg",
+			"span",
+			"l-",
+			"color:",
+			"l-",
+			"hg",
+			"nav",
+			"div",
+			"xs-3",
+			"<li>",
+			"before",
+			".blog",
+			"blog_id",
+			"{ path",
+			"Comment",
+			"ArrayCollection",
+			"profiler",
+			"left",
+			"blog.",
+			"group1\" href=\"test",
+			"group1\" href=\"test1",
+			"href=\"test",
+			"class Entity",
+			"getRequest()",
+			"enquire",
+			"url",
+			"contr",
+			"addParentTopics",
+			"family",
+			"Welcome To Your New TeamHub",
+			"Karma",
+			"Reputation",
+			"Karma",
+			"a.btn-success {\n    color: #ffffff;\n}",
+			"fonts.googleapis",
+			"50px",
+			"box-shadow",
+			"box-shadow:",
+			"0 0",
+			"navbar-search",
+			".navbar-inner .navbar-search",
+			"headerButton",
+			"--",
+			"70",
+			"login",
+			"padding-top",
+			"box-shadow",
+			"shadow",
+			"5px",
+			"20px",
+			"headerButton",
+			"toc_button",
+			"14px",
+			"'0'",
+			"none",
+			"display",
+			"245",
+			"margin-bottom",
+			"page.fullWidth",
+			"sidr",
+			"off-canvas-nav",
+			"#sidr",
+			"off-canvas-nav",
+			"off",
+			"off-canvas-nav",
+			" ",
+			"|",
+			"lastActiveUser",
+			"<@url",
+			"<@url name=",
+			"abs=true",
+			"margin",
+			"dff0d8",
+			"isMarked",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"jjjj  ",
+			"\"\",\"==  ",
+			"==      ",
+			"",
+			"-",
+			"\\t",
+			">",
+			"",
+			">",
+			"",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Blogger/BlogBundle/Form/CommentType.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 90.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "symfony.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sec",
+				"app/config/security.yml"
+			],
+			[
+				"base",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"lay",
+				"src/Blogger/BlogBundle/Resources/views/layout.html.twig"
+			],
+			[
+				"entipost",
+				"src/Blogger/BlogBundle/Entity/Post.php"
+			],
+			[
+				"pagec",
+				"src/Blogger/BlogBundle/Controller/PageController.php"
+			],
+			[
+				"page",
+				"src/Blogger/BlogBundle/Controller/PageController.php"
+			],
+			[
+				"rout",
+				"src/Blogger/BlogBundle/Resources/config/routing.yml"
+			],
+			[
+				"pageindex",
+				"src/Blogger/BlogBundle/Resources/views/Page/index.html.twig"
+			],
+			[
+				"postshow",
+				"src/Blogger/BlogBundle/Resources/views/Post/show.html.twig"
+			],
+			[
+				"controller",
+				"src/Blogger/BlogBundle/Controller/BlogController.php"
+			],
+			[
+				"routi",
+				"src/Blogger/BlogBundle/Resources/config/routing.yml"
+			],
+			[
+				"enty",
+				"src/Blogger/BlogBundle/Form/EnquiryType.php"
+			],
+			[
+				"blog.cs",
+				"public_html/bundles/blog/css/blog.css"
+			],
+			[
+				"show",
+				"src/Blogger/BlogBundle/Resources/views/Post/show.html.twig"
+			],
+			[
+				"blogc",
+				"src/Blogger/BlogBundle/Controller/BlogController.php"
+			],
+			[
+				"commentre",
+				"src/Blogger/BlogBundle/Entity/Repository/CommentRepository.php"
+			],
+			[
+				"entitypost",
+				"src/Blogger/BlogBundle/Entity/Post.php"
+			],
+			[
+				"entity/post",
+				"src/Blogger/BlogBundle/Entity/Post.php"
+			],
+			[
+				"blogre",
+				"src/Blogger/BlogBundle/Entity/Repository/BlogRepository.php"
+			],
+			[
+				"pageco",
+				"src/Blogger/BlogBundle/Controller/PageController.php"
+			],
+			[
+				"thubanswlist",
+				"thub/questions/includes/answer-list.ftl"
+			],
+			[
+				"askasnli",
+				"askmn/questions/includes/answer-list.ftl"
+			],
+			[
+				"thubbase",
+				"thub/base-head.ftl"
+			],
+			[
+				"askbase",
+				"askmn/base-head.ftl"
+			],
+			[
+				"thubupload",
+				"thub/scripts/redactor/upload.js"
+			],
+			[
+				"askupload",
+				"askmn/scripts/redactor/upload.js"
+			],
+			[
+				"thubredaini",
+				"thub/scripts/redactor/redactor.init.js"
+			],
+			[
+				"askredaini",
+				"askmn/scripts/redactor/redactor.init.js"
+			],
+			[
+				"thubmainna",
+				"thub/includes/main-navbar.ftl"
+			],
+			[
+				"askmainna",
+				"askmn/includes/main-navbar.ftl"
+			],
+			[
+				"thubbasehead",
+				"thub/base-head.ftl"
+			],
+			[
+				"thubmainnav",
+				"thub/includes/main-navbar.ftl"
+			],
+			[
+				"thubrece",
+				"thub/widgets/recent_badges.ftl"
+			],
+			[
+				"badges",
+				"inin/widgets/recent_badges.ftl"
+			],
+			[
+				"ask",
+				"thub/widgets/ask_to_answer.ftl"
+			],
+			[
+				"newques",
+				"askmn/notifications/newquestion.ftl"
+			],
+			[
+				"answera",
+				"askmn/notifications/answeraccepted.ftl"
+			],
+			[
+				"newcom",
+				"askmn/notifications/newcomment.ftl"
+			],
+			[
+				"newanswer",
+				"askmn/notifications/newanswer.ftl"
+			],
+			[
+				"reda",
+				"thub/scripts/redactor/redactor.js"
+			],
+			[
+				"",
+				"catalog/view/theme/new1/template/common/home.tpl"
+			],
+			[
+				"moducar",
+				"catalog/controller/module/carousel.php"
+			],
+			[
+				"new1car",
+				"catalog/view/theme/new1/template/module/carousel.tpl"
+			],
+			[
+				"newhome",
+				"catalog/view/theme/new1/template/common/home.tpl"
+			],
+			[
+				"catalatest",
+				"catalog/controller/module/latest.php"
+			],
+			[
+				"new1contop",
+				"catalog/view/theme/new1/template/common/content_top.tpl"
+			],
+			[
+				"new1lates",
+				"catalog/view/theme/new1/template/module/latest.tpl"
+			],
+			[
+				"adminfeat",
+				"admin/view/template/module/featured.tpl"
+			],
+			[
+				"adminfeatured",
+				"admin/language/russian/module/featured.php"
+			],
+			[
+				"modulfeat",
+				"catalog/controller/module/featured.php"
+			],
+			[
+				"langfeat",
+				"catalog/language/russian/module/featured.php"
+			],
+			[
+				"new1feat",
+				"catalog/view/theme/new1/template/module/featured.tpl"
+			],
+			[
+				"modulefea",
+				"admin/controller/module/featured.php"
+			],
+			[
+				"home.tpl",
+				"catalog/view/theme/kparts/template/common/home.tpl"
+			],
+			[
+				"modelcatalogprod",
+				"catalog/model/catalog/product.php"
+			],
+			[
+				"home.php",
+				"catalog/controller/common/home.php"
+			],
+			[
+				"kpartshome.tpl",
+				"catalog/view/theme/kparts/template/common/home.tpl"
+			],
+			[
+				"kpartscar",
+				"catalog/view/theme/kparts/stylesheet/carousel.css"
+			],
+			[
+				"app.js",
+				"catalog/view/theme/kparts/angular/js/app.js"
+			],
+			[
+				"catalogheader.",
+				"catalog/controller/common/header.php"
+			],
+			[
+				"kparheader.t",
+				"catalog/view/theme/kparts/template/common/header.tpl"
+			],
+			[
+				"kpartslatest",
+				"catalog/view/theme/kparts/template/module/latest.tpl"
+			],
+			[
+				"kpartshome.tp",
+				"catalog/view/theme/kparts/template/common/home.tpl"
+			],
+			[
+				"kpartshome",
+				"catalog/view/theme/kparts/template/common/home_app.tpl"
+			],
+			[
+				"kparts/home",
+				"catalog/view/theme/kparts/template/common/home.tpl"
+			],
+			[
+				"address.php",
+				"catalog/model/account/address.php"
+			],
+			[
+				"delive",
+				"catalog/controller/information/delivery.php"
+			],
+			[
+				"controlcheckpayment_method",
+				"catalog/controller/checkout/payment_method.php"
+			],
+			[
+				"catalogcontrollprodprod",
+				"catalog/controller/product/product.php"
+			],
+			[
+				"kpartscod.tpl",
+				"catalog/view/theme/kparts/template/payment/cod.tpl"
+			],
+			[
+				"kpartscheckoutconf",
+				"catalog/view/theme/kparts/template/checkout/confirm.tpl"
+			],
+			[
+				"for1",
+				"catalog/controller/common/for1to10do.php"
+			],
+			[
+				"catacontroinfor",
+				"catalog/controller/information/information.php"
+			],
+			[
+				"download_price",
+				"catalog/controller/account/download_price.php"
+			],
+			[
+				"cart",
+				"catalog/view/theme/kparts/template/checkout/cart.tpl"
+			],
+			[
+				"catacontrlinfoco",
+				"catalog/controller/information/contact.php"
+			],
+			[
+				"catacontinfor",
+				"catalog/controller/information/information.php"
+			],
+			[
+				"catamodecatainf",
+				"catalog/model/catalog/information.php"
+			],
+			[
+				"sutomer",
+				"system/library/customer.php"
+			],
+			[
+				"modelacccust",
+				"catalog/model/account/customer.php"
+			],
+			[
+				"payment_address2",
+				"catalog/controller/checkout/payment_address2.php"
+			],
+			[
+				"header.tpl",
+				"catalog/view/theme/kparts/template/common/header.tpl"
+			],
+			[
+				"appc",
+				"catalog/view/theme/kparts/angular/css/app.css"
+			],
+			[
+				"address2",
+				"catalog/controller/checkout/payment_address2.php"
+			],
+			[
+				"cartdire",
+				"catalog/view/theme/kparts/angular/js/cart/cart-directives.js"
+			],
+			[
+				"kparthome",
+				"catalog/view/theme/kparts/template/common/home.tpl"
+			],
+			[
+				"catacontcheckmet",
+				"catalog/controller/checkout/payment_method.php"
+			],
+			[
+				"catamodelchedel",
+				"catalog/model/checkout/delivery.php"
+			],
+			[
+				"catalogmodelacco",
+				"catalog/model/account/customer.php"
+			],
+			[
+				"librcust",
+				"system/library/customer.php"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"grunfile",
+				"Gruntfile.js"
+			],
+			[
+				"usermod",
+				"catalog/view/theme/kparts/angular/js/users/users-module.js"
+			],
+			[
+				"header",
+				"catalog/controller/common/header.php"
+			],
+			[
+				"registertpl",
+				"catalog/view/theme/kparts/template/account/register.tpl"
+			],
+			[
+				"footertpl",
+				"catalog/view/theme/kparts/template/common/footer.tpl"
+			],
+			[
+				"headertpl",
+				"catalog/view/theme/kparts/template/common/header.tpl"
+			],
+			[
+				"geadertpl",
+				"catalog/view/theme/default/template/common/header.tpl"
+			],
+			[
+				"searc",
+				"catalog/controller/product/search.php"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"shippaddress",
+				"catalog/view/theme/kparts/template/checkout/shipping_address.tpl"
+			],
+			[
+				"check2",
+				"catalog/view/theme/kparts/template/checkout/checkout2.tpl"
+			],
+			[
+				"checkout2",
+				"catalog/controller/checkout/checkout2.php"
+			],
+			[
+				"kpartscheckoutadd",
+				"catalog/view/theme/kparts/template/checkout/payment_address.tpl"
+			],
+			[
+				"kpartscart.tpl",
+				"catalog/view/theme/kparts/template/checkout/cart.tpl"
+			],
+			[
+				"kpartschektl",
+				"catalog/view/theme/kparts/template/checkout/checkout.tpl"
+			],
+			[
+				"cartcotr",
+				"catalog/view/theme/kparts/angular/js/cart/cart-controllers.js"
+			],
+			[
+				"appminjs",
+				"catalog/view/theme/kparts/angular/js/app.min.js"
+			],
+			[
+				"modellocalisa",
+				"admin/model/localisation/zone.php"
+			],
+			[
+				"kpartregister",
+				"catalog/view/theme/kparts/template/account/register.tpl"
+			],
+			[
+				"category_template",
+				"catalog/view/theme/kparts/template/product/category_template.php"
+			],
+			[
+				"productcategory",
+				"catalog/controller/product/category.php"
+			],
+			[
+				"protpl",
+				"catalog/view/theme/kparts/template/product/product.tpl"
+			],
+			[
+				"productsear",
+				"catalog/controller/product/search.php"
+			],
+			[
+				"librarycart",
+				"system/library/cart.php"
+			],
+			[
+				"header.php",
+				"catalog/controller/common/header.php"
+			],
+			[
+				"catamodelacco",
+				"catalog/model/account/customer.php"
+			],
+			[
+				"catacontroacclo",
+				"catalog/controller/account/login.php"
+			],
+			[
+				"catalogmodelcataloprod",
+				"catalog/model/catalog/product.php"
+			],
+			[
+				"catalomodelcataprod",
+				"catalog/model/catalog/product.php"
+			],
+			[
+				"modelcatapro",
+				"catalog/model/catalog/product.php"
+			],
+			[
+				"modelcataprod",
+				"admin/model/catalog/product.php"
+			],
+			[
+				"controllercart",
+				"catalog/controller/checkout/cart.php"
+			],
+			[
+				"contlog",
+				"catalog/controller/account/login.php"
+			],
+			[
+				"usermo",
+				"catalog/view/theme/kparts/angular/js/users/users-module.js"
+			],
+			[
+				"userdire",
+				"catalog/view/theme/kparts/angular/js/users/users-directives.js"
+			],
+			[
+				"produmo",
+				"catalog/view/theme/kparts/angular/js/products/products-module.js"
+			],
+			[
+				"usersmod",
+				"catalog/view/theme/kparts/angular/js/users/users-module.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/answerhub-theme-sdk/teamhub.home/plugins/AH-Plugins.sublime-project"
+			],
+			[
+				"alt",
+				"~/www/alto.com/public_html/alto.sublime-project"
+			],
+			[
+				"plug",
+				"~/answerhub-theme-sdk/teamhub.home/plugins/AH-Plugins.sublime-project"
+			],
+			[
+				"ahplu",
+				"~/answerhub-theme-sdk/teamhub.home/plugins/AH-Plugins.sublime-project"
+			],
+			[
+				"nex",
+				"/home/anykey/answerhub-theme-sdk/teamhub.home/themes/nextLevel/nextlevel.sublime-project"
+			],
+			[
+				"moe",
+				"/home/anykey/www/test.wp/public_html/wp-content/plugins/mn-landing-page/moebius_noodles.sublime-project"
+			],
+			[
+				"ne",
+				"/home/anykey/answerhub-theme-sdk/teamhub.home/themes/nextLevel/nextlevel.sublime-project"
+			],
+			[
+				"sma",
+				"/home/anykey/www/test.wp/public_html/wp-content/plugins/smartsolver/smartsolver"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

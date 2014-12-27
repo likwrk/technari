@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html"; charset="utf-8" />
+        <title>{% block title %}Технари{% endblock %}</title>
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        {% block stylesheets %}
+            {# <link href='http://fonts.googleapis.com/css?family=Irish+Grover&subset=latin,cyrillic' rel='stylesheet' type='text/css'> #}
+            {# <link href='http://fonts.googleapis.com/css?family=La+Belle+Aurore&subset=latin,cyrillic' rel='stylesheet' type='text/css'> #}
+            <link href='http://fonts.googleapis.com/css?family=Stalinist+One&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+            <link href='http://fonts.googleapis.com/css?family=Marck+Script&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+            <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+            {# <link href="{{ asset('css/font-awesome.min.css') }}" type="text/css" rel="stylesheet" /> #}
+            <link href="{{ asset('css/bootstrap.min.css') }}" type="text/css" rel="stylesheet" />
+            <link href="{{ asset('css/screen.css') }}" type="text/css" rel="stylesheet" />
+        {% endblock %}
+        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+    </head>
+    <body>
+
+        <section id="wrapper" class="container">
+            <header id="header" class="row">
+                <hgroup class="col-sm-3">
+                    <h2>{% block blog_title %}<a href="{{ path('site_homepage') }}">Технари</a>{% endblock %}</h2>
+                    <h3>{% block blog_tagline %}<a href="{{ path('site_homepage') }}">Сервисный центр</a>{% endblock %}</h3>
+                </hgroup>
+                <div class="top col-sm-9 ">
+                    <div class="contacts row text-center">
+                        <ul class="col-xs-12 list-inline">
+                            <li class="contact-item"><span class="highlight"><i class="fa fa-lg fa-phone"></i> +38 044</span> 224-50-24</li>
+                            <li class="contact-item"><span class="highlight"><i class="fa fa-lg fa-mobile"></i> +38 067</span> 224-50-24</li>
+                            <li class="contact-item"><a href=""><span class="highlight"><i class="fa fa-lg fa-info"></i> Все</span> контакты</a></li>
+                        </ul>
+                    </div>
+                    {% block navigation %}
+                        {% set topCategories = [
+                            {'slug': 'for-home', 'title': 'Для дома'},
+                            {'slug': 'for-business', 'title': 'Для бизнеса'},
+                            {'slug': 'about-company', 'title': 'О компании'}
+                        ] %}
+                        {% if currentCategory is not defined  %}
+                            {% set currentCategory = {'slug': 'about-company'} %}
+                        {% endif %}
+                        <nav class="row">
+                            <ul class="navigation">
+                                {% for topCat in topCategories %}
+                                    <li class="col-sm-4 item-{{topCat.slug}}"><a {% if topCat.slug == currentCategory.slug %} class="active" {% endif %} href="{{ path('site_homepage', {'slug': topCat.slug}) }}"><span>{{topCat.title}}</span></a></li>
+                                {% endfor %}
+                            </ul>
+                        </nav>
+                    {% endblock %}
+                </div>
+            </header>
+
+            {% if pagefullwidth is not defined %}
+                {% set pagefullwidth = false %}
+            {% endif %}
+
+            <section class="promo">
+                {% block promo %}
+
+                {% endblock %}
+            </section>
+
+            <div class="content row">
+                {% if not pagefullwidth %}
+                <aside class="sidebar col-sm-3">
+                    {% block sidebar %}{% endblock %}
+                </aside>
+                {% endif %}
+
+                <section class="main-col {% if pagefullwidth %} col-sm-12 {% else %} col-sm-9 {% endif %} ">
+                    {% block body %}{% endblock %}
+                </section>
+            </div>
+
+            <div id="footer" class="row">
+                {% block footer %}
+                    Технари 2014
+                {% endblock %}
+            </div>
+        </section>
+        <script type="text/javascript" src="{{ asset('js/jquery.min.js') }}" ></script>
+        {% block javascripts %}{% endblock %}
+    </body>
+</html>

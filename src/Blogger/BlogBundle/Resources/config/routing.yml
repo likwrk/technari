@@ -1,0 +1,31 @@
+BlogBundle_homepage:
+    pattern:  /
+    defaults: { _controller: BlogBundle:Page:index }
+    requirements:
+        _method:  GET
+
+BlogBundle_about:
+    pattern: /about
+    defaults: { _controller: BlogBundle:Page:about }
+    requirements:
+        _method: GET
+
+BlogBundle_contact:
+    pattern: /contact
+    defaults: { _controller: BlogBundle:Page:contact }
+    requirements:
+        _method: GET|POST
+
+BlogBundle_post:
+    pattern: /{id}
+    defaults: { _controller: BlogBundle:Post:show }
+    requirements:
+        _method: GET
+        id: \d+
+
+BlogBundle_comment_create:
+    pattern: /comment/{post_id}
+    defaults: { _controller: BlogBundle:Comment:create }
+    requirements:
+        _method: POST
+        post_id: \d+

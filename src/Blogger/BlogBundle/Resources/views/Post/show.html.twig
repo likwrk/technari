@@ -1,0 +1,32 @@
+{% extends 'BlogBundle::layout.html.twig' %}
+
+{% block title %}{{ post.title }}{% endblock %}
+
+{% block body %}
+    <article class="blog">
+        <header>
+            <span class="right">by {{ post.author }}</span>
+            <div class="date"><time datetime="{{ post.created|date('c') }}">{{ post.created|date('l, F j, Y') }}</time></div>
+            <h2>{{ post.title }}</h2>
+        </header>
+        {% if post.image %}
+            <img src="{{ asset(['images/', post.image]|join) }}" alt="{{ post.title }} image not found" class="large" />
+        {% endif %}
+        <div>
+            <p>{{ post.post }}</p>
+        </div>
+        <section class="comments" id="comments">
+            <section class="new-comment">
+                <h3>Добавить комментарий</h3>
+                {{ render(controller('BlogBundle:Comment:form', {
+                    'post_id': post.id
+                })) }}
+                {# {% render 'BlogBundle:Comment:form' with { 'post_id': post.id } %} #}
+            </section>
+            <section class="previus-comments">
+                <h3>Комментарии</h3>
+                {% include 'BlogBundle:Comment:index.html.twig' with {'comments': comments} %}
+            </section>
+        </section>
+    </article>
+{% endblock %}

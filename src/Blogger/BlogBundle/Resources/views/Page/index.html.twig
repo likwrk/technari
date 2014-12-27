@@ -1,0 +1,33 @@
+{% extends 'BlogBundle::layout.html.twig' %}
+
+{% block body %}
+
+	{% for post in posts %}
+		<article>
+			<div class="date"><time></time></div>
+			<header>
+				<h2><a href="{{ path('BlogBundle_post', { 'id': post.id }) }}">{{ post.title }}</a></h2>
+			</header>
+
+			{% if post.image %}
+				<img src="{{ asset(['images/', post.image]|join) }}" alt="{{ post.title }}">
+			{% endif %}
+
+			<div class="snippet">
+				<p>{{ post.post }}</p>
+				<p class="continue"><a href="{{ path('BlogBundle_post', { 'id': post.id }) }}"> Далее </a></p>
+			</div>
+
+			<footer class="meta">
+				<p>Comments: {{ post.comments|length }}</p>
+				<p>Posted by <span class="highlight">{{ post.author }}</span> at {{ post.created|date('h:iA') }} </p>
+				<p>Tags: <span class="highlight">{{ post.tags }}</span></p>
+			</footer>
+
+		</article>
+
+	{% else %}
+
+	{% endfor %}
+
+{% endblock %}

@@ -1,0 +1,131 @@
+/* FRONT LINKS */
+
+.links-header {
+    margin: 0;
+    padding: 3px 19px;
+    font: bold 14px/23px Tahoma,Arial,sans-serif;
+    border-left: 2px solid #FF7E00;
+    color: #FF7E00;
+    text-transform: uppercase;
+}
+
+.links-col {
+    border-left: 1px solid #E1E1E1;
+    padding: 5px 0 10px;
+    min-height: 160px;
+}
+
+.links-col:first-child {
+    border-left: none;
+}
+
+.front-links ul {
+    margin: 0;
+    padding: 5px 0 3px;
+    list-style: none outside none;
+}
+
+.front-links ul a {
+    display: block;
+    padding: 3px 22px;
+    color: #64707C;
+}
+
+.links-col:hover {
+    background: url('../images/links-col.png') repeat-x scroll 0 100% #FFF;
+}
+
+.front-links ul a:hover {
+    color: #FFF;
+    background: none repeat scroll 0 0 #FF7E00;
+    text-decoration: none;
+}
+
+.front-links .row {
+    border-top: 1px solid #E1E1E1;
+    border-left: 1px solid #E1E1E1;
+    border-right: 1px solid #E1E1E1;
+}
+
+.front-links .row:first-child {
+	-moz-border-top-left-radius: 5px;
+    -webkit-border-top-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+    -moz-border-top-right-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.front-links .row:last-child {
+    border-bottom: 1px solid #E1E1E1;
+
+	-moz-border-bottom-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+    -moz-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+/* PROMO */
+
+.promo .promo-info {
+	background: url('../images/contacts-line.png') repeat-x scroll 0 100% #F8C337;
+	border-width: 1px;
+	border-style: solid;
+	border-right: 1px solid #FD9111;
+	border-left: 1px solid #FD9111;
+	-moz-border-top-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	border-image: none;
+	border-color: #FD8E0E #FD9111 #FD9514;
+	border-radius: 5px;
+	box-shadow: 0 1px 0 #C7C7C7;
+}
+
+.promo .row {
+	margin-bottom: 20px;
+}
+
+.promo-slogan {
+    float: left;
+    padding: 8px 0px 8px 16px;
+    color: #FFF;
+    font: bold 18px/21px "Trebuchet MS",Helvetica,sans-serif;
+    text-transform: uppercase;
+    text-shadow: -1px -1px 0px #FB690A;
+}
+
+.promo-contacts {
+    float: right;
+    border-left: 1px solid #FF7E00;
+    padding: 6px 6px 6px 30px;
+    line-height: 26px;
+}
+
+.promo-banner img {
+	width: 100%;
+	height: 100%;
+}
+
+/* MAIN */
+
+.middle { margin: 10px 0; }
+
+.latest-news h2 {
+    margin: 0px;
+    padding: 0px 0px 0px 30px;
+    font: 18px/22px Tahoma,Arial,sans-serif;
+    background: url('../images/h-widget.png') no-repeat scroll 5px 3px transparent;
+    color: #69737C;
+    text-transform: uppercase;
+}
+
+.map img {
+    display: block;
+    border-radius: 5px;
+}

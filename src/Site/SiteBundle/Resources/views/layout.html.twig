@@ -1,0 +1,14 @@
+{% extends '::base.html.twig' %}
+
+{% block title %}
+    {{title}}
+{% endblock %}
+
+{% block stylesheets %}
+	{{ parent() }}
+	<link rel="stylesheet" href="{{ asset('bundles/site/css/site.css') }}" type="text/css" >
+{% endblock %}
+
+{% block sidebar %}
+    Sidebar content
+{% endblock %}

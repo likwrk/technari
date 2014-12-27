@@ -1,0 +1,82 @@
+{% extends 'SiteBundle::layout.html.twig' %}
+
+{% block promo %}
+	<div class="row promo-info">
+		<div class="col-sm-5 promo-slogan">
+			ваши проблемы — наша забота
+		</div>
+		<div class="col-sm-7 promo-contacts">
+			<ul class="list-inline text-center">
+                <li class="contact-item"><span class="highlight-white"><i class="fa fa-lg fa-phone"></i> +38 044</span> 224-50-24</li>
+                <li class="contact-item"><span class="highlight-white"><i class="fa fa-lg fa-mobile"></i> +38 067</span> 224-50-24</li>
+                <li class="contact-item"><a href=""><span class="highlight-white"><i class="fa fa-lg fa-info"></i> Все</span> контакты</a></li>
+            </ul>
+		</div>
+	</div>
+{% endblock %}
+
+{% block body %}
+
+	<div class="front-links">
+		{% set colNum = 0 %}
+		<div class="row">
+			{% for category in categories %}
+				{% set colNum = colNum + 1 %}
+				{% if colNum == 5 %}
+					</div><div class="row">
+				{% endif %}
+				<div class="col-sm-3 links-col">
+					<div class="links-header"><a href="{{ path('site_subcat', { 'parent_slug': currentCategory.slug, 'slug': category.slug }) }}">{{category.title}}</a></div>
+					{% if category.children %}
+						<ul>
+							{% for child in category.children %}
+							    <li><a href="{{ path('site_subcat', { 'parent_slug': category.slug, 'slug': child.slug }) }}">{{child.title}}</a></li>
+							{% endfor %}
+						</ul>
+					{% endif %}
+				</div>
+
+			{% else %}
+				<div>Нет ничего</div>
+			{% endfor %}
+		</div>
+	</div>
+
+	<div class="middle row">
+		<div class="col-sm-6 map">
+			<img src="http://static-maps.yandex.ru/1.x/?ll=33.340283,45.199417&size=500,400&z=16&l=map&pt=33.340283,45.199417,pm2dbl" alt="">
+		</div>
+		<div class="col-sm-6 latest-news">
+			<h2>Последние новости</h2>
+			{% for post in posts %}
+				<article>
+					<div class="date"><time></time></div>
+					<header>
+						<p class="pull-right"><span class="highlight">{{ post.author }}</span> - {{ post.created|date('h:iA') }} </p>
+						<h3><a href="{{ path('BlogBundle_post', { 'id': post.id }) }}">{{ post.title }}</a></h3>
+					</header>
+
+					{% if post.image %}
+						<img src="{{ asset(['images/', post.image]|join) }}" alt="{{ post.title }}">
+					{% endif %}
+
+					<div class="snippet">
+						<p>{{ post.post }}</p>
+						{# <p class="continue"><a href="{{ path('BlogBundle_post', { 'id': post.id }) }}"> Далее </a></p> #}
+					</div>
+
+					{# <footer class="meta">
+						<p>Comments: {{ post.comments|length }}</p>
+						<p>Posted by <span class="highlight">{{ post.author }}</span> at {{ post.created|date('h:iA') }} </p>
+						<p>Tags: <span class="highlight">{{ post.tags }}</span></p>
+					</footer> #}
+
+				</article>
+
+			{% else %}
+
+			{% endfor %}
+		</div>
+	</div>
+
+{% endblock %}
